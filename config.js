@@ -1,0 +1,3 @@
+window.APP_CONFIG = {
+  scriptUrl: 'PASTE_YOUR_APPS_SCRIPT_EXEC_URL_HERE'
+};
